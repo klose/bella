@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/Hadaway0.2.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-0.20.2-core.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-0.20.2-examples.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-0.20.2-test.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-0.20.2-tools.jar"/>
+	<classpathentry kind="lib" path="lib/hbase-0.90.0-tests.jar"/>
+	<classpathentry kind="lib" path="lib/hbase-0.90.0.jar"/>
+	<classpathentry kind="lib" path="lib/jdom.jar"/>
+	<classpathentry kind="lib" path="lib/jedis.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="lib/servlet-api-2.5-6.1.14.jar"/>
+	<classpathentry kind="lib" path="lib/zookeeper-3.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/conf"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

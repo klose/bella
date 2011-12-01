@@ -1,2 +1,4 @@
 bella
 provide mapreduce samples over HBase
+User Guide:
+please import your Eclipse environment as a project.
